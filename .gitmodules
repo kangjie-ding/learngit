@@ -1,0 +1,3 @@
+[submodule "Numerical-Solutions-for-PDE"]
+	path = Numerical-Solutions-for-PDE
+	url = git@github.com:kangjie-ding/Numerical-Solutions-for-PDE.git
